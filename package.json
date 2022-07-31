@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lokesh-Amara/js-lib-tst/issues"
   },
-  "homepage": "https://github.com/Lokesh-Amara/js-lib-tst#readme"
+  "homepage": "https://github.com/Lokesh-Amara/js-lib-tst#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
